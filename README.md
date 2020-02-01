@@ -5,4 +5,4 @@ This repository contains the poster that was accepted by [Google](www.google.com
 ![](presentation.png)
 
 
-A PDF version can be found [here]().
+A PDF version can be found [here](https://github.com/icarus-team/Open-Images-Instance-Segmnentation-2019/blob/master/OpenImages%20Poster.pdf).
